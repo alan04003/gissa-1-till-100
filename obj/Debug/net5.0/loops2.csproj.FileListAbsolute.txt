@@ -1,0 +1,16 @@
+C:\Users\alle_\OneDrive\Documents\code\loops2\bin\Debug\net5.0\loops2.exe
+C:\Users\alle_\OneDrive\Documents\code\loops2\bin\Debug\net5.0\loops2.deps.json
+C:\Users\alle_\OneDrive\Documents\code\loops2\bin\Debug\net5.0\loops2.runtimeconfig.json
+C:\Users\alle_\OneDrive\Documents\code\loops2\bin\Debug\net5.0\loops2.runtimeconfig.dev.json
+C:\Users\alle_\OneDrive\Documents\code\loops2\bin\Debug\net5.0\loops2.dll
+C:\Users\alle_\OneDrive\Documents\code\loops2\bin\Debug\net5.0\ref\loops2.dll
+C:\Users\alle_\OneDrive\Documents\code\loops2\bin\Debug\net5.0\loops2.pdb
+C:\Users\alle_\OneDrive\Documents\code\loops2\obj\Debug\net5.0\loops2.csproj.AssemblyReference.cache
+C:\Users\alle_\OneDrive\Documents\code\loops2\obj\Debug\net5.0\loops2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alle_\OneDrive\Documents\code\loops2\obj\Debug\net5.0\loops2.AssemblyInfoInputs.cache
+C:\Users\alle_\OneDrive\Documents\code\loops2\obj\Debug\net5.0\loops2.AssemblyInfo.cs
+C:\Users\alle_\OneDrive\Documents\code\loops2\obj\Debug\net5.0\loops2.csproj.CoreCompileInputs.cache
+C:\Users\alle_\OneDrive\Documents\code\loops2\obj\Debug\net5.0\loops2.dll
+C:\Users\alle_\OneDrive\Documents\code\loops2\obj\Debug\net5.0\ref\loops2.dll
+C:\Users\alle_\OneDrive\Documents\code\loops2\obj\Debug\net5.0\loops2.pdb
+C:\Users\alle_\OneDrive\Documents\code\loops2\obj\Debug\net5.0\loops2.genruntimeconfig.cache
